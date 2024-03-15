@@ -1,0 +1,66 @@
+p{
+
+    font-family: Bungee Spice;
+text-align: center;
+   
+    font-size: 40pt;
+}
+.bungee-spice-regular {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:<weight>;
+    font-style:normal;
+    font-variation-settings:"slnt" 0;
+  }
+  
+ 
+
+body{
+    background-image: url(screenshot-10502.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    margin: 100px;
+}
+
+div {
+    font-family: 'Inter', sans-serif;
+font-size: 20pt;
+    background-color: rgba(0, 0, 0, 0.5); /* Negro con opacidad del 50% */
+    margin-left: 300px;
+    margin-right: 300px;
+    color: white;
+    
+}
+.Jack{
+   width: 200px;
+   height: 250px;
+}
+.img{
+    width: 400px;
+    height: 500px;
+    margin-left: 675px;
+    margin-right: 300px;
+
+}
+video{
+
+    margin-left: 550px;
+    margin-right: 300px;
+
+}
+footer{
+background-color: orangered;
+margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+font-size: 20pt;
+
+}

@@ -1,0 +1,245 @@
+h1{
+    color: goldenrod;  
+    font-size: 50pt; 
+}
+
+p{
+font-size:14pt;
+font-family:Arial, Helvetica, sans-serif;
+background-color: aliceblue;
+opacity:70%;
+max-width: 2000px;
+}
+
+video[class=Fondo] {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 10%;
+    transform: translateX(calc((100% - 100vw) / 2));
+    z-index: -2
+}
+
+h2{
+    font-size:30pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #b60101;
+    background-color:goldenrod ;
+    opacity: 70%;
+    max-width:150px;
+    }
+
+h3{
+font-size:14pt;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: #b60101;
+}
+
+h4{
+    font-size:10pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aliceblue;
+    opacity: 30%;
+    max-width: 1000px;
+}
+
+h5{
+    font-size:14pt;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    opacity:70%;
+    max-width: 2000px;
+}
+
+img[alt="Logo"]{
+    width:1200px;
+    height:400px;
+}
+
+img[alt="Po"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:red;
+    border-style:ridge;
+}
+img[alt="Shifu"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:red;
+    border-style:ridge;
+}
+img[alt="Tigresa"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:red;
+    border-style:ridge;
+}
+img[alt="Mono"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:red;
+    border-style:ridge;
+}
+img[alt="Mantis"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:red;
+    border-style:ridge;
+}
+img[alt="Grulla"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:red;
+    border-style:ridge;
+}
+img[alt="Víbora"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:red;
+    border-style:ridge;
+}
+img[alt="Oogway"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:red;
+    border-style:ridge;
+}
+
+/* Actores de doblaje*/
+
+img[alt="Jack Black"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Flo"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Dustin Hoffman"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Joaquín"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Angelina"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Nuria"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Jackie Chan"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Luis"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Seth Rogen"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Xavier"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="David Cross"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Albert"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Lucy Liu"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Graciela"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Randall Duk Kim"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
+
+img[alt="Eduardo"]{
+    width:200px;
+    height:200px;
+    border: width 5px;
+    border-color:goldenrod;
+    border-style:ridge;
+}
